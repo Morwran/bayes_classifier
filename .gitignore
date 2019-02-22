@@ -1,0 +1,5 @@
+.log
+.tmp
+#.metadata/*
+#/doc/doxygen/*
+#!/doc/doxygen/Doxyfile
