@@ -1,5 +1,6 @@
-.log
-.tmp
+*.log
+*.tmp
+*.pyc
 #.metadata/*
 #/doc/doxygen/*
 #!/doc/doxygen/Doxyfile
